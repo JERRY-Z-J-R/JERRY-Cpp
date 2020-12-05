@@ -1,7 +1,7 @@
 /*
-* 姓名：周吉瑞
-* 学号：20190521340
-* 日期：2020 / 10 /15
+* ???????????
+* ????20190521340
+* ?????2020 / 10 /15
 */
 
 #include <iostream>
@@ -13,7 +13,7 @@ using namespace std;
 
 void GetTime::disp_welcomemsg()
 {
-	cout << "周周为您报时：" << endl;
+	cout << "????????????" << endl;
 }
 
 void GetTime::set_year()
