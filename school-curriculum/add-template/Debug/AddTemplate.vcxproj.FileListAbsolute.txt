@@ -1,2 +1,0 @@
-F:\MyCode\C++\School_Curriculum\AddTemplate\Debug\AddTemplate.exe
-F:\MyCode\C++\School_Curriculum\AddTemplate\Debug\AddTemplate.pdb

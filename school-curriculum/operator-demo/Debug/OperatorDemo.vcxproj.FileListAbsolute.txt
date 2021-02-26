@@ -1,2 +1,0 @@
-F:\MyCode\C++\School_Curriculum\OperatorDemo\Debug\OperatorDemo.exe
-F:\MyCode\C++\School_Curriculum\OperatorDemo\Debug\OperatorDemo.pdb
